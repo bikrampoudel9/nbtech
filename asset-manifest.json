@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nbtech/static/css/main.e7f2563e.css",
+    "main.js": "/nbtech/static/js/main.05ae2a49.js",
+    "static/js/453.83287b10.chunk.js": "/nbtech/static/js/453.83287b10.chunk.js",
+    "static/media/logo.jpg": "/nbtech/static/media/logo.d7b7b072a038c3cfcca9.jpg",
+    "index.html": "/nbtech/index.html",
+    "main.e7f2563e.css.map": "/nbtech/static/css/main.e7f2563e.css.map",
+    "main.05ae2a49.js.map": "/nbtech/static/js/main.05ae2a49.js.map",
+    "453.83287b10.chunk.js.map": "/nbtech/static/js/453.83287b10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7f2563e.css",
+    "static/js/main.05ae2a49.js"
+  ]
+}
